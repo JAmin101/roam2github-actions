@@ -2,7 +2,7 @@
 
 [Roam2Github Backup Guide](https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9)
 
-COPY OF INSTRUCTIONS BELOW
+COPY OF Erik Newhard's INSTRUCTIONS BELOW
 
 If you set up *roam-to-git* following [my old guide](https://eriknewhard.com/blog/backup-roam-in-github), switch to *roam2github* with these instructions:
 
